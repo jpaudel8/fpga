@@ -1,0 +1,10 @@
+NET "clk"   LOC = "B8"; 
+NET "en(0)" LOC = "r17"; 
+NET "en(2)" LOC = "n17";
+NET "en(4)" LOC = "l13";
+NET "en(5)" LOC = "l14";
+NET "en(7)" LOC = "k17";
+NET "en(1)" LOC = "a4";
+NET "en(3)" LOC = "c3";
+NET "en(6)" LOC = "c4";
+NET "s" LOC = "b4";
